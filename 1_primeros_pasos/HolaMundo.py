@@ -9,5 +9,3 @@ print('ki ubo')
 a=30
 c=3+a
 print (c)
-#ff#ffzx
-#asaas
